@@ -1,0 +1,14 @@
+{
+    "players": [
+    	{
+    		"name":"Dewdrop",
+    		"starthealth": 15,
+    		"ac": 13,
+    	},
+    	{
+    		"name": "Shadow",
+    		"starthealth": 13,
+    		"ac": 11,
+    	}
+    ],
+}
